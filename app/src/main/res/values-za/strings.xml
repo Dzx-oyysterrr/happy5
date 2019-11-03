@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">happy</string>
+    <string name="one" translatable="false">生日快乐！</string>
+    <string name="two" translatable="false">祝您</string>
+    <string name="str2" translatable="false">请输入华氏温度：</string>
+    <string name="str3" translatable="false">摄氏温度为：</string>
+    <string name="btn_label1">转换</string>
+</resources>

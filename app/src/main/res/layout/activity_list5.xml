@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_list2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    tools:context=".List5Activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp">
+
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:text="球队" />
+
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:text="排名" />
+
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:text="场次" />
+
+        <TextView
+            android:layout_width="35dp"
+            android:layout_height="match_parent"
+            android:text=" 胜" />
+
+        <TextView
+            android:layout_width="35dp"
+            android:layout_height="match_parent"
+            android:text=" 负" />
+
+        <TextView
+            android:layout_width="35dp"
+            android:layout_height="match_parent"
+            android:text=" 平" />
+
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:text="进球" />
+
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:text="失球" />
+
+        <TextView
+            android:layout_width="47dp"
+            android:layout_height="match_parent"
+            android:text="净胜球" />
+
+        <TextView
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:text="积分" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/itemTitle"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:text="hello"
+            android:textColor="@color/colorAccent"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/itemDetail"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/colorAccent"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/itemDetail2"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/colorAccent"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/itemDetail3"
+            android:layout_width="35dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/colorAccent"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/itemDetail4"
+            android:layout_width="35dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/colorAccent"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/itemDetail5"
+            android:layout_width="35dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/colorAccent"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/itemDetail6"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/colorAccent"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/itemDetail7"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/colorAccent"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/itemDetail8"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/colorAccent"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/itemDetail9"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:textColor="@color/colorAccent"
+            android:textSize="15sp" />
+    </LinearLayout>
+
+</LinearLayout>

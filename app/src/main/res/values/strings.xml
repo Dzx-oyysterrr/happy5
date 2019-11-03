@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">happy</string>
+    <string name="one" translatable="true">Happy birthday！</string>
+    <string name="two" translatable="true">wish you :</string>
+    <string name="btn_label1" translatable="false">btn</string>
+    <string name="str1" translatable="false">one</string>
+    <string name="str2" translatable="false">two</string>
+    <string name="str3" translatable="false">thr</string>
+    <string name="rdo_home" translatable="false">首页</string>
+    <string name="rdo_func" translatable="false">功能</string>
+    <string name="rdo_setting" translatable="false">设置</string>
+    <string name="eng" translatable="false">英超</string>
+    <string name="spa" translatable="false">西甲</string>
+    <string name="iti" translatable="false">意甲</string>
+    <string name="gem" translatable="false">德甲</string>
+    <string name="fan" translatable="false">法甲</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
